@@ -1,6 +1,5 @@
 ### Olá, sou Gabriel 👋
-- 🔭 Cursando na Etec de Taboão da Serra
-- 🌱 Curso técnico (Desenvolvimento de sistemas)
+- 🔭 Cursando (Desenvolvimento de sistemas) na Etec
 - 📖 Estou no 2° ano do ensino médio em outra unidade escolar
 
 <div>
