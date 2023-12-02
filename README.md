@@ -1,7 +1,7 @@
-### Olá, sou Gabriel Damasceno  👋
-
-- 🔭 Estudadando na Etec ...
-- 🌱 Estudando Desenvolvimento de sistemas ...
+### Olá, sou Gabriel 👋
+- 🔭 Cursando na Etec de Taboão da Serra
+- 🌱 Curso técnico (Desenvolvimento de sistemas)
+- 📖 Estou no 2° ano do ensino médio em outra unidade escolar
 
 <div>
   <a href="https://github.com/GabrielDamascenoAlmeida"> 
