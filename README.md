@@ -1,6 +1,6 @@
 ### Olá, sou Gabriel 👋
-- 🔭 Cursando (Desenvolvimento de sistemas) na Etec
-- 📖 Estou no 3° ano do ensino médio em outra unidade escolar
+- 🔭 Formado na ETEC em desenvolvimento de sistemas;
+- 📖 Ensino Médio completo.
 
 <div>
   <a href="https://github.com/GabrielDamascenoAlmeida"> 
